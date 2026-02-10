@@ -5,7 +5,7 @@
 
 Proofs I'm from 2015 in the dev world:
 
-- [StackOverflow 2015 account](https://web.archive.org/web/20210928191411/https://stackoverflow.com/users/5066707/klaider) (profile tracked by archive.org in 24 Jan 2021 - 3 Jul 2022; links back to my old secondary GitHub account [@klaider](https://github.com/klaider), which links back to my lost previous @hydroper account, which links back to my current DeviantArt in the linked Vercel website)
+- [StackOverflow 2015 account](https://web.archive.org/web/20210928191411/https://stackoverflow.com/users/5066707/klaider) (profile tracked by archive.org around 2021; links back to my old secondary GitHub account [@klaider](https://github.com/klaider), which links back to my lost previous @hydroper account, which links back to my current DeviantArt in the linked Vercel website)
 - [Something I asked in 2015](https://web.archive.org/web/20210807215904/https://stackoverflow.com/questions/31146403/how-to-make-url-clear)
 
 I've gone through different medical situations and ended up deleting several accounts in the internet, including GitHub ones. The only internet accounts I've not deleted/lost are my [DeviantArt](https://deviantart.com/hydroper) and [PHPBrasil](https://phpbrasil.com/profile/RMYiJhYbdir/matheus-dias-de-souza), which are from the 2014 and 2015 years respectively. (In a certain way, I still have my first Steam account basically loggable as well, but it's a bit inaccessible.)
