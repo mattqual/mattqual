@@ -1,7 +1,7 @@
 # 2015 GitHub
 
 <details>
-<summary>2015 details</summary>
+<summary>2015 account proofs</summary>
 
 Proofs I'm from 2015 in the dev world:
 
