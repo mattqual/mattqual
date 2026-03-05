@@ -31,5 +31,5 @@ I started learning dev stuff in the 2014's even, or pratically 2015's beginning.
 # Metro design language
 
 [![](https://img.shields.io/badge/Metro%20theme%20for%20mdBook-gray?style=for-the-badge)](https://github.com/sweaxizone/metro-mdbook)<br><br>
-[![](https://img.shields.io/badge/Metro%20for%20ReactJS-gray?style=for-the-badge)](https://github.com/matheusds4/metro.js)<br>
+[![](https://img.shields.io/badge/Metro%20for%20ReactJS-gray?style=for-the-badge)](https://github.com/mattqual/metro.js)<br>
 *slightly outdated*
